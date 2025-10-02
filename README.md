@@ -45,7 +45,6 @@ Soy **Ingeniero Químico** y **QA Engineer especializado en GenAI y Machine Lear
 
 ## 📊 Estadísticas de GitHub  
 
-![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan010702&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan010702&layout=compact&theme=radical)  
 
 ---
