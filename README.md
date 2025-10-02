@@ -1,4 +1,6 @@
-# 👋 Hi, I’m Brayan Quitián  
+<p align="center">
+  <img src="banner/banner.png" alt="Banner" />
+</p>
 
 ### 🚀 Machine Learning & GenAI QA Engineer   
 
