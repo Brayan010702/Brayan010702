@@ -4,7 +4,7 @@
 
 GenAI QA Engineer with 4 years of experience in **Machine Learning and Generative AI**, specialized in LLM testing, QA automation, and RLHF. Skilled in model development, NLP, and transfer learning, combining engineering and applied data science to deliver scalable and innovative solutions.  
 
-📍 Bucaramanga, Colombia  
+📍 Bucaramanga, Colombia 🇨🇴  
 📧 brayan010702@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/brayan010702/) | [GitHub](https://github.com/Brayan010702)  
 
