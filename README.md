@@ -49,16 +49,16 @@ GenAI QA Engineer con 4 años de experiencia en **Machine Learning e IA generati
 
 ---
 
-## 🚀 Proyectos Destacados  
+## 🚀 Proyectos Destacados
 
 - [🔬 Research on Rheology & Electric Fields](#) – Investigación universitaria sobre comportamiento reológico de crudos.  
-- [🤖 QA Automation for GenAI Agents](#) – Pruebas automatizadas para agentes orquestadores (AIDA Service).  
+- [🤖 QA Automation for GenAI Agents](#) – Pruebas automatizadas para agentes orquestadores, RAG y APIS.  
 - [📊 Credit Risk ML Model](#) – Predicción de riesgo crediticio con XGBoost y LightGBM.  
 - [🎬 Sentiment Analysis Pipeline](#) – NLP con NLTK, SpaCy y Gensim.  
 
 ---
 
-## 📜 Certificaciones  
+## 📜 Certificaciones
 
 - **Machine Learning Operations (MLOps) with Vertex AI** – Google Cloud Skills Boost *(2025)*  
 - **Introduction to Vertex AI Studio** – Google Cloud Skills Boost *(2025)*  
