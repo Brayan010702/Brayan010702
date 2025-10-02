@@ -78,36 +78,14 @@ GenAI QA Engineer con 4 años de experiencia en **Machine Learning e IA generati
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat)
 ![Agile](https://img.shields.io/badge/Agile-FF6600?style=flat)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat&logo=trello&logoColor=white)
-![XP](https://img.shields.io/badge/Extreme%20Programming-800080?style=flat)
-
----
-
-## 💼 Experiencia  
-
-- **GenAI QA Engineer** – ÜMA Salud IA *(2025 - Presente)*  
-  Automatización de pruebas de calidad para LLMs y agentes conversacionales con Vertex AI y CI/CD.  
-
-- **QA Engineer for LLMs** – Scale AI *(2024 - 2025)*  
-  Validación de salidas de LLMs, aplicación de RLHF y soporte a clientes enterprise.  
-
-- **Research Scientist** – Universidad Industrial de Santander *(2024 - 2025)*  
-  Investigación en reología de crudos bajo campos eléctricos, usando Python y MATLAB.  
-
-- **Machine Learning Engineer** – Anyone AI *(2024)*  
-  Modelos de predicción de riesgo crediticio, NLP y Transfer Learning para visión por computadora.  
-
----
-
-## 📊 Estadísticas de GitHub  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan010702&layout=compact&theme=radical)  
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-- [🔬 Research on Rheology & Electric Fields](#) – Investigación universitaria sobre comportamiento reológico de crudos.  
-- [🤖 QA Automation for GenAI Agents](#) – Pruebas automatizadas para agentes orquestadores, RAG y APIS.  
+- [🤖 QA Automation for GenAI Agents](#) – Pruebas automatizadas para agentes orquestadores, RAG y APIs.  
+- [🔬 Research on Rheology & Electric Fields](#) – Investigación universitaria sobre comportamiento reológico de crudos.
+- [💼 Insurance Policy Generation Chatbot](#) – Chatbot para el sector de seguros que automatiza la creación de pólizas, optimizando tiempos y ofreciendo información confiable mediante tecnologias de RAG y APIS.  
 - [📊 Credit Risk ML Model](#) – Predicción de riesgo crediticio con XGBoost y LightGBM.  
 - [🎬 Sentiment Analysis Pipeline](#) – NLP con NLTK, SpaCy y Gensim.  
 
@@ -121,7 +99,7 @@ GenAI QA Engineer con 4 años de experiencia en **Machine Learning e IA generati
 
 ---
 
-✨ *Siempre abierto a colaborar en proyectos de Machine Learning, QA para GenAI y soluciones innovadoras en IA.*  
+🌍 Siempre dispuesto a compartir conocimiento y construir proyectos de **IA que transformen ideas en resultados**.
 
 
 <!--
