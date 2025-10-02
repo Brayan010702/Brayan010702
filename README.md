@@ -2,7 +2,7 @@
 
 ### 🚀 Machine Learning & GenAI QA Engineer | Chemical Engineer  
 
-Soy **Ingeniero Químico** y **QA Engineer especializado en GenAI y Machine Learning**, con experiencia en investigación, desarrollo de modelos de IA y automatización de calidad para agentes conversacionales. Me apasiona aplicar mis habilidades técnicas para crear soluciones **innovadoras, escalables y con impacto real**.  
+GenAI QA Engineer con 4 años de experiencia en **Machine Learning e IA generativa**, especializado en pruebas de LLMs, QA automation y RLHF. Experiencia en desarrollo de modelos, NLP y transfer learning, combinando ingeniería y ciencia de datos aplicada para entregar soluciones escalables e innovadoras.  
 
 📍 Bucaramanga, Colombia  
 📧 brayan010702@gmail.com  
