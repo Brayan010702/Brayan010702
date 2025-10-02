@@ -1,6 +1,6 @@
 # 👋 Hola, soy Brayan Quitián  
 
-### 🚀 Machine Learning & GenAI QA Engineer | Chemical Engineer  
+### 🚀 Machine Learning & GenAI QA Engineer   
 
 GenAI QA Engineer con 4 años de experiencia en **Machine Learning e IA generativa**, especializado en pruebas de LLMs, QA automation y RLHF. Experiencia en desarrollo de modelos, NLP y transfer learning, combinando ingeniería y ciencia de datos aplicada para entregar soluciones escalables e innovadoras.  
 
