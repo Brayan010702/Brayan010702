@@ -44,7 +44,8 @@ GenAI QA Engineer with 4 years of experience in **Machine Learning and Generativ
 ---
 ## 🚀 Featured Projects  
 
-- [🤖 QA Automation for GenAI Agents](#) – Automated testing for orchestrator agents, RAG, and APIs.  
+- [🤖 QA Automation for GenAI Agents](#) – Automated testing for orchestrator agents, RAG, and APIs.
+- [🛍️ Shopin AI Agent](#) – AI shopping assistant for personalized recommendations.    
 - [🔬 Research on Rheology & Electric Fields](#) – University research on rheological behavior of crude oils.  
 - [💼 Insurance Policy Generation Chatbot](#) – Insurance chatbot that automates policy creation, optimizing time and ensuring reliability through RAG and APIs.  
 - [📊 Credit Risk ML Model](#) – Credit risk prediction using XGBoost and LightGBM.  
