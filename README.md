@@ -4,7 +4,7 @@
 
 ### 🚀 Machine Learning & GenAI QA Engineer   
 
-GenAI QA Engineer with 4 years of experience in **Machine Learning and Generative AI**, specialized in LLM testing, QA automation, and RLHF. Skilled in model development, NLP, and transfer learning, combining engineering and applied data science to deliver scalable and innovative solutions.  
+M.Sc. Artificial Intelligence with 3 years of experience in **Machine Learning and Generative AI**, specialized in LLM testing, QA automation, and RLHF. Skilled in model development, NLP, and transfer learning, combining engineering and applied data science to deliver scalable and innovative solutions.  
 
 📍 Bucaramanga, Colombia 🇨🇴  
 📧 brayan010702@gmail.com  
