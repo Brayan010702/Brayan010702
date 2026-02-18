@@ -4,7 +4,11 @@
 
 ### 🚀 Machine Learning & GenAI QA Engineer   
 
-M.Sc. Artificial Intelligence with 3 years of experience in **Machine Learning and Generative AI**, specialized in LLM testing, QA automation, and RLHF. Skilled in model development, NLP, and transfer learning, combining engineering and applied data science to deliver scalable and innovative solutions.  
+AI Engineer with 4 years of experience specializing in the development, optimization, and deployment of Generative AI and Machine Learning systems. Proven expertise in building and refining RAG pipelines, integrating LLMs into production environments, and architecting observability frameworks on Google Cloud Platform (GCP). 
+
+Currently at ÜMA Salud IA, I lead the technical validation and optimization of conversational agents and clinical models on Vertex AI, ensuring high precision and clinical safety . I design and implement real-time monitoring solutions using Looker Studio and Google Cloud logs, while managing complex integrations with WhatsApp, OpenPay, and TuoTempo. Previously at Scale AI, I focused on large-scale model alignment through RLHF and technical code validation. 
+
+Expert in Python, Vertex AI, Ragas, GCP, TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM, Docker, Redis, Flask, and SQL, with expertise in QA automation and GenAI optimization strategies. I am dedicated to building robust, scalable AI infrastructure that delivers measurable business and clinical impact. 
 
 📍 Bucaramanga, Colombia 🇨🇴  
 📧 brayan010702@gmail.com  
@@ -54,8 +58,8 @@ M.Sc. Artificial Intelligence with 3 years of experience in **Machine Learning a
 ---
 ## 📜 Certifications  
 
-- **Machine Learning Operations (MLOps) with Vertex AI** – Google Cloud Skills Boost *(2025)*  
-- **Introduction to Vertex AI Studio** – Google Cloud Skills Boost *(2025)*  
+- **BI and Analytics with Looker** – Google Cloud Skills Boost *(2026)*  
+- **Build with Vertex AI: Deploy and Evaluate Model Garden Models** – Google Cloud Skills Boost *(2025)*  
 - **Machine Learning Specialization** – DeepLearning.AI & Stanford Online *(2025)*  
 
 ---
