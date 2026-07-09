@@ -4,11 +4,12 @@
 
 ### 🚀 Machine Learning & GenAI QA Engineer   
 
-AI Engineer with 4 years of experience specializing in the development, optimization, and deployment of Generative AI and Machine Learning systems. Proven expertise in building and refining RAG pipelines, integrating LLMs into production environments, and architecting observability frameworks on Google Cloud Platform (GCP). 
+AI Engineer with 4+ years of experience specializing in the development, optimization, and deployment of Generative AI, Machine Learning, and agentic automation systems. 
 
-Currently at ÜMA Salud IA, I lead the technical validation and optimization of conversational agents and clinical models on Vertex AI, ensuring high precision and clinical safety . I design and implement real-time monitoring solutions using Looker Studio and Google Cloud logs, while managing complex integrations with WhatsApp, OpenPay, and TuoTempo. Previously at Scale AI, I focused on large-scale model alignment through RLHF and technical code validation. 
+Currently an AI Agentic Developer at Carmel Partners, building Azure-based automation pipelines, AI-powered dashboards, and intelligent agents that answer natural-language questions over SQL data, using Python to streamline reporting and cross-departmental workflows. Previously, at ÜMA Salud IA, I led the technical validation and optimization of conversational agents and clinical models on Vertex AI, ensuring high precision and clinical safety, and designed real-time monitoring solutions using Looker Studio and Google Cloud logs. Earlier, at Outlier, I focused on large-scale model alignment through RLHF and technical code validation. 
 
-Expert in Python, Vertex AI, Ragas, GCP, TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM, Docker, Redis, Flask, and SQL, with expertise in QA automation and GenAI optimization strategies. I am dedicated to building robust, scalable AI infrastructure that delivers measurable business and clinical impact. 
+Expert in Python, Azure, SQL, Vertex AI, RAG, TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM, Docker, and Flask, with strong experience in AI agent development, workflow automation, and GenAI optimization strategies. I am dedicated to building robust, scalable AI infrastructure that delivers measurable business impact.
+ 
 
 📍 Bucaramanga, Colombia 🇨🇴  
 📧 brayan010702@gmail.com  
